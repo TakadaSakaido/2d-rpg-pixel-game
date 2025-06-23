@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cj7npvgplarj6"
+path="res://.godot/imported/waves.mp3-a707cdc6cee221e7bc20d36a23b1929c.mp3str"
+
+[deps]
+
+source_file="res://Title Screen/Audio/waves.mp3"
+dest_files=["res://.godot/imported/waves.mp3-a707cdc6cee221e7bc20d36a23b1929c.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

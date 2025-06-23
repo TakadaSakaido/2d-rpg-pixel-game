@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://b3gv2fxmmjnwp"
+path="res://.godot/imported/menu_focus.wav-b4dffb51e413b6ab38ecb9d04205134a.sample"
+
+[deps]
+
+source_file="res://Title Screen/Audio/menu_focus.wav"
+dest_files=["res://.godot/imported/menu_focus.wav-b4dffb51e413b6ab38ecb9d04205134a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
