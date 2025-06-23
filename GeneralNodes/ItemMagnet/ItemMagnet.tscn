@@ -1,0 +1,12 @@
+[gd_scene load_steps=3 format=3 uid="uid://bto0njgabdvj7"]
+
+[ext_resource type="Script" uid="uid://c4dac0ixmyttq" path="res://GeneralNodes/ItemMagnet/item_magnet.gd" id="1_n1db3"]
+[ext_resource type="AudioStream" uid="uid://fgquuy2do35u" path="res://Player/Audio/catch.wav" id="2_b781y"]
+
+[node name="ItemMagnet" type="Area2D"]
+collision_layer = 0
+monitorable = false
+script = ExtResource("1_n1db3")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
+stream = ExtResource("2_b781y")

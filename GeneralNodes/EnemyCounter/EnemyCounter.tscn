@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b67wxvpu5lheb"]
+
+[ext_resource type="Script" uid="uid://dnx417qtuk4rg" path="res://GeneralNodes/EnemyCounter/enemy_counter.gd" id="1_5kr7g"]
+
+[node name="EnemyCounter" type="Node2D"]
+script = ExtResource("1_5kr7g")
